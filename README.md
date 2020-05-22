@@ -46,7 +46,3 @@ The red spheres above cars represent the (x,y) lidar detection and the purple li
 2. Make a build directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
 4. Run it: `./ukf_highway`
-
-## Project Output
-
-<img src="media/ukf1.jpg" width="700" height="400" />
